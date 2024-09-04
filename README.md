@@ -2,6 +2,13 @@
 ## I'm an undergraduate of Geophysics UGM batch 2023
 
 ### About me
+#### Birth date : 7 February 2005
+#### Origin : Tangerang, Banten
+#### Hobby : Reading, listening to music, etc
+#### Favorite song : Let down -Radiohead
+
+</details>
+
 <details>
 <summary>Experience</summary>
 
@@ -22,4 +29,6 @@
 | Geovisit HMGF UGM | Coordinator of Equipment and Logisitic for visit to Universitas Indonesia and BP Indonesia |
 | Dekan Cup FMIPA UGM | Coordinator of Sponsorship Division |
 </details>
+
+
 
